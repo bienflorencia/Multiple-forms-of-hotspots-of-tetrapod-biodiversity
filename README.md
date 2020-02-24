@@ -1,3 +1,10 @@
+
+
+[![DOI](https://zenodo.org/badge/242839633.svg)](https://zenodo.org/badge/latestdoi/242839633)
+
+
+
+
 The following scripts were used for the analyses of the paper with the running title **“Multiple measures of vertebrate biodiversity hotspots: lesson from Uruguay”**. We will use the data for amphibians as an example.
 
 ![](Hotspots_Tetrapods_files/figure-markdown_strict/unnamed-chunk-1-1.png)
