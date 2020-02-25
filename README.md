@@ -288,3 +288,7 @@ Now let's plot both variables
 <br>
 
 #### For more information contact [Florencia Grattarola](mailto:flograttarola@gmail.com)  
+
+---
+
+Cite as: Grattarola, F. (2020) bienflorencia/biodiversity_hotspots: Scripts to analyse vertebrates hotspots (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.3686241
