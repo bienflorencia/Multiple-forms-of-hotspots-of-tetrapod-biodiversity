@@ -14,7 +14,7 @@ This repository includes all the code and example data for the analysis performe
 5. [Spatial correlations](R/05_spatial_correlations.R)
 6. [Congruence with protected areas](R/06_congruence_with_protected_areas.R)
 
-You may find the example datasets used for the analyses in the [Data](data/) folder.
+You may find the example datasets used for the analyses in the [data](data/) folder and the plots generated within the scripts in the [figures](figures/) folder.
 
 
 ## License
