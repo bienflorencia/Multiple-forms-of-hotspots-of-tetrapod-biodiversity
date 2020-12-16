@@ -1,6 +1,7 @@
 # Multiple forms of hotspots of tetrapod biodiversity and the challenges of open-access data scarcity
 
-10.1038/s41598-020-79074-8
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4327295.svg)](https://doi.org/10.5281/zenodo.4327295)
+
 
 ## Author
 [*Florencia Grattarola*](mailto:flograttarola@gmail.com)
