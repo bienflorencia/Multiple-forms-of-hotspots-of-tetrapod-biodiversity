@@ -1,10 +1,3 @@
----
-title: "README"
-author: "Florencia Grattarola"
-date: "7 December 2020"
-output: html_document
----
-
 # Multiple forms of hotspots of tetrapod biodiversity and the challenges of open-access data scarcity
 
 ## Author
