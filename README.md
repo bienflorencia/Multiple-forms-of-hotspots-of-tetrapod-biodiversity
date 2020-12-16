@@ -28,5 +28,5 @@ This work is licensed under an [Attribution 4.0 International (CC BY 4.0) Licens
 ## Citing
 If you reuse these scripts for your work, please cite our manuscript: 
 
-Grattarola F., Martínez-Lanfranco J.A., Botto G., Naya D.E., Maneyro R., Mai P., Hernández D., Laufer G., Ziegler L., González E.M., da Rosa I., Gobel N., González A., González J., Rodales A.L. & D. Pincheira-Donoso (2020). Multiple forms of hotspots of tetrapod biodiversity and the challenges of open-access data scarcity. Scientific Reports **10**, 22045. https://doi.org/10.1038/s41598-020-79074-8
+Grattarola F., Martínez-Lanfranco J.A., Botto G., Naya D.E., Maneyro R., Mai P., Hernández D., Laufer G., Ziegler L., González E.M., da Rosa I., Gobel N., González A., González J., Rodales A.L. & D. Pincheira-Donoso. 2020. Multiple forms of hotspots of tetrapod biodiversity and the challenges of open-access data scarcity. *Scientific Reports* **10**, 22045. https://doi.org/10.1038/s41598-020-79074-8
 
