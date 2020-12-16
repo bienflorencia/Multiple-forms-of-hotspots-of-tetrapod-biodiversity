@@ -7,7 +7,7 @@
 [*Florencia Grattarola*](mailto:flograttarola@gmail.com)
 
 ## Description
-This repository includes all the code and example data for the analysis performed for the manuscript [**Multiple forms of hotspots of tetrapod biodiversity and the challenges of open-access data scarcity**](https://rdcu.be/ccjpm ), which is due to appear in Scientific Reports. Analyses include calculation of hotspots of species richness, endemism and threatened species (number and proportion) at multiple spatial resolutions, estimation of species-richness standardised for sampling coverage, calculation of inventory completeness per grid-cell, spatial correlations between hotspots, and evaluation of hotspot congruence.
+This repository includes all the code and example data for the analysis performed for the manuscript [**Multiple forms of hotspots of tetrapod biodiversity and the challenges of open-access data scarcity**](https://doi.org/10.1038/s41598-020-79074-8), which is due to appear in Scientific Reports. Analyses include calculation of hotspots of species richness, endemism and threatened species (number and proportion) at multiple spatial resolutions, estimation of species-richness standardised for sampling coverage, calculation of inventory completeness per grid-cell, spatial correlations between hotspots, and evaluation of hotspot congruence.
 
 ## Analyses
 1. [Biodiversity metrics calculation](R/01_biodiversity_metrics_calculation.R)
