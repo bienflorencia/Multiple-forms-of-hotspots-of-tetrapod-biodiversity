@@ -7,7 +7,7 @@
 # Congruence with protected areas
 
 ### Description
-# This is a script that calculates species-richness, endemism and threatened species number/proportion values for grid-cell. As input, a csv file with primary data is needed, along with a gridded map with the extension of Uruguay (we used three grid-cell unit resolutions 12.5x12.5km, 25x25km and 50x50km). 
+# This is a script that calculates the congruence of 2.5 and 5% of the biodiverstiy hotspots richest grid-cells with the current areas under protection in Uruguay. 
 
 
 # ------------------------------------------------------------------------------
